@@ -2,7 +2,7 @@
 ## Junior Academy of Sciences Project
 
 ### Overview
-This project, developed approximately 4 years ago, was one of my first endeavors in the realm of game development. It was presented at the Junior Academy of Sciences of Ukraine and was recognized with an award. It involved the implementation of a web-based application using basic HTML, JavaScript, and the Phaser.js framework.
+This project, developed in 2020, was one of my first endeavors in the realm of game development. It was presented at the Junior Academy of Sciences of Ukraine and was recognized with an award. It involved the implementation of a web-based application using basic HTML, JavaScript, and the Phaser.js framework.
 
 
 ### Technologies Used
